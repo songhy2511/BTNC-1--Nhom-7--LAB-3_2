@@ -1,2 +1,4 @@
-# BTNC-1--Nhom-7--LAB-3_2
-Bài tập nâng cao 1 - nhóm 7- lab 3.2
+Bài tập Lab 3.2 - Nhóm 7
+Chức năng: Quản lý học viên, chuyển lớp A/B.
+
+Công cụ: C# WinForms, MenuStrip, Multi-select ListBox.
